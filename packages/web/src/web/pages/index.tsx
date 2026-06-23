@@ -485,9 +485,9 @@ function Index() {
         <div className="relative overflow-hidden rounded-[2.5rem] bg-ink px-6 py-14 text-center text-white md:py-20">
           <div aria-hidden className="absolute -right-16 -top-16 h-64 w-64 rounded-full bg-[var(--primary)] opacity-30 blur-3xl" />
           <div aria-hidden className="absolute -bottom-20 -left-10 h-64 w-64 rounded-full bg-[var(--primary)] opacity-20 blur-3xl" />
-          <h2 className="relative text-3xl font-extrabold sm:text-4xl">¿Listo para tu nueva web?</h2>
+          <h2 className="relative text-3xl font-extrabold sm:text-4xl">Encuentra la solución digital que tu negocio necesita para crecer.</h2>
           <p className="relative mx-auto mt-3 max-w-md text-white/70">
-            Conversemos sin compromiso. Te respondo con una propuesta clara para tu proyecto.
+            Desde una web corporativa hasta tu primera tienda online. Creamos herramientas accesibles, rápidas y optimizadas para Google. Haz clic abajo y cuéntanos tu proyecto sin compromiso.
           </p>
           <div className="relative mt-8 flex flex-wrap justify-center gap-3">
             <a href="https://wa.me/56920734676" className="rounded-full bg-[var(--primary)] px-7 py-3 text-sm font-semibold text-[var(--on-primary,#14271b)] transition hover:scale-105">
